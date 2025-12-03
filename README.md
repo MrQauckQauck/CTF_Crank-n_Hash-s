@@ -1,6 +1,6 @@
 # CTF_Crank-n_Hash-s
 
-Create this Python script, so i could create md5 hash faster 
+Created this Python script, so i could crack md5 hash faster while playing CFT 
 
 ## Overview
 This is an MD5 password cracker that uses brute-force to crack multiple MD5-crypt hashes with a known prefix. The script attempts to find passwords that match given MD5-crypt hashes by trying different combinations with the prefix `SKY-MASK-`.
